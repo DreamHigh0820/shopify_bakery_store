@@ -699,6 +699,7 @@ hr {
   display: block;
   font-size: 16px;
   font-family: auto;
+  font-style: italic;
 }
 
 .placeholder {
