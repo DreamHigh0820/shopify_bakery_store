@@ -34,7 +34,7 @@
         style="justify-content:center;"
       >
         <h2 id="SectionHeading-{{ section.id }}" class="collection-list-title {{ section.settings.heading_size }}">
-          <u>{{ section.settings.title | escape }}</u>
+          {{ section.settings.title | escape }}
         </h2>
 
         {%- if section.settings.show_view_all and show_mobile_slider -%}
