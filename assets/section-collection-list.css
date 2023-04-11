@@ -7,7 +7,7 @@
   justify-self: center;
   font-size: 1.7rem;
   margin: 0;
-  text-underline-offset: 12px;
+  text-underline-offset: 9px;
 }
 
 @media screen and (max-width: 749px) {
