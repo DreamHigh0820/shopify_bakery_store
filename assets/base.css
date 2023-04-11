@@ -2395,6 +2395,7 @@ input[type="checkbox"] {
   display: flex;
   grid-area: icons;
   justify-self: end;
+  font-family: Neutraface\ 2 Display,sans-serif;
 }
 
 .header__icon:not(.header__icon--summary),
